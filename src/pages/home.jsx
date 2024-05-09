@@ -7,7 +7,7 @@ function Home() {
         <div className="p-10 bg-pink-500"></div>
         <div className="p-10 bg-indigo-500"></div>
         <div className="p-10 bg-slate-500"></div>
-        <div></div>
+        <div className="p-10 bg-green-500"></div>
       </div>
     </>
   );
